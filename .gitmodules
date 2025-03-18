@@ -1,0 +1,3 @@
+[submodule "lecturers"]
+	path = lecturers
+	url = https://github.com/Deepak14Jain/lecturers.git
